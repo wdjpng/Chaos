@@ -10,8 +10,10 @@ git clone https://github.com/wdjpng/chaos/
 pip install matplotlib numpy
 ```
 
-Now you can install [Jupyer](https://jupyter.org/) and open the directory of the cloned repo with it.
+Then you can install [Jupyer](https://jupyter.org/) and open the directory of the cloned repo with it.
 
+Now you can create visualizations like this one for yourself!
+![logistic map](https://github.com/wdjpng/chaos/blob/main/logistic_map.png)
 # Reccomended further reading / sources
 * [This equation will change how you see the world](https://www.youtube.com/watch?v=ovJcsL7vyrk), Veritasium
 * [Chaos and Reductionism](https://youtu.be/_njf8jwEGRo?list=PL848F2368C90DDC3D), a recorded Stanford lecture by Professor Robert Skapolsky, the other lectures about human behavioural biology are highly interesting as well.
