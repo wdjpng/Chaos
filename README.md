@@ -1,4 +1,4 @@
-# Chaos
+# Chaos - The logistic map
 A jupyter notebook implementing and explaining the logistic map
 
 # Usage
