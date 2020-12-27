@@ -2,9 +2,11 @@
 A jupyter notebook implementing and explaining the logistic map
 
 # Usage
+## Quick setup
 The jupyter notebook can be directly accessed on Google colab using [this](https://colab.research.google.com/github/wdjpng/chaos/blob/main/main.ipynb) link
 
-If, however, you want to edit this repository locally, you can do so by cloning it, installing the required pip packages
+## Local installation
+If you want to edit and run this repository locally, you can do so by cloning it and installing the required pip packages.
 ```
 git clone https://github.com/wdjpng/chaos/
 pip install matplotlib numpy
